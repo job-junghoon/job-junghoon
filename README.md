@@ -39,8 +39,8 @@
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/watch?v=wcsVjmHrUQg&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="자바스크립트 배우기전 꼭 봐야할 영상">
-          <img align="center" src="https://img.youtube.com/vi/wcsVjmHrUQg/0.jpg" width="300" alt-text="">
+        <a href="https://www.youtube.com/watch?v=SDdAtKWHZ_o" title="자바스크립트 배우기전 꼭 봐야할 영상">
+          <img align="center" src="https://www.youtube.com/watch?v=SDdAtKWHZ_o/0.jpg" width="300" alt-text="">
         </a>
       </td>
       <td>
