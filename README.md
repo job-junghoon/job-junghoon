@@ -30,6 +30,6 @@
 
 
 <h2>My popular videos</h2>
-<a href="https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="2022 웹개발 로드맵 총정리 (공부순서 알려드림) | 올해는 정말 해보자 🚀">
+
 
 
