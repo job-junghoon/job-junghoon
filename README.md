@@ -43,11 +43,7 @@
           <img align="center" src="https://www.youtube.com/watch?v=SDdAtKWHZ_o/0.jpg" width="300" alt-text="">
         </a>
       </td>
-      <td>
-        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
-        <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg" width="300" alt-text="Git tutorial">
-          </a>
-      </td>
+      
     </tr>
   </tbody>
 </table>
@@ -55,4 +51,3 @@
 
 <br/>
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
