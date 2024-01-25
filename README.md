@@ -44,7 +44,11 @@
           <img align="center" src="https://img.youtube.com/vi/SDdAtKWHZ_o/0.jpg" width="300" alt-text="">
         </a>
       </td>
-     
+      <td>
+        <a href="https://youtu.be/bB2p0m-h6EI" title="얼굴 부분 자르기">
+          <img align="center" src="https://img.youtube.com/vi/bB2p0m-h6EI/0.jpg" width="300" alt-text="">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
