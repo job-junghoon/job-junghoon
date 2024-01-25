@@ -36,8 +36,8 @@
   <tbody>
     <tr>
       <td>
-        <a href=https://www.youtube.com/watch?v=h_k2ibzkMNM title="ros 로봇제어, rplidar , 얼굴인식, 미디어파이프">
-        
+       <a href="https://www.youtube.com/watch?v=h_k2ibzkMNM" title="ros, mediapipe, face -recognition, rplidar">
+          <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
         </a>
       </td>
       <td>
