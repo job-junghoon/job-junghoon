@@ -38,7 +38,8 @@
     <tr>
       <td>
         <a href="https://youtu.be/h_k2ibzkMNM" title="ros, face-recognition, mediapipe, rplidar">
-          <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
+          <img align="center" src=" ![aa](https://github.com/job-junghoon/job-junghoon/assets/121753670/8ce97206-6c5f-4931-b7f4-77d065aa3a4a)
+ " width="300" alt-text="Frontend Roadmap">
         </a>
       </td>
       <td>
