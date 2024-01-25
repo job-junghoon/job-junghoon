@@ -27,3 +27,33 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+<br/>
+
+<h2>My popular videos</h2>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href=https://www.youtube.com/watch?v=h_k2ibzkMNM title="ros 로봇제어, rplidar , 얼굴인식, 미디어파이프">
+        
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=wcsVjmHrUQg&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="자바스크립트 배우기전 꼭 봐야할 영상">
+          <img align="center" src="https://img.youtube.com/vi/wcsVjmHrUQg/0.jpg" width="300" alt-text="">
+        </a>
+      </td>
+      <td>
+        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
+        <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg" width="300" alt-text="Git tutorial">
+          </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<b><em><a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">More videos...</a></em></b>
+
+<br/>
+<br/>
